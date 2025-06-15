@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-sintaxe-basica-java/01-sintaxe-basica-java.iml" filepath="$PROJECT_DIR$/01-sintaxe-basica-java/01-sintaxe-basica-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Bootcamp-Santander-2025__Back-End-Java.iml" filepath="$PROJECT_DIR$/.idea/Bootcamp-Santander-2025__Back-End-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/get-started/get-started.iml" filepath="$PROJECT_DIR$/get-started/get-started.iml" />
+      <module fileurl="file://$PROJECT_DIR$/get-started-vs-code/get-started-vs-code.iml" filepath="$PROJECT_DIR$/get-started-vs-code/get-started-vs-code.iml" />
+    </modules>
+  </component>
+</project>
