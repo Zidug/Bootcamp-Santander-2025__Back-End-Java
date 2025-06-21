@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/02-programacao-orientada-objetos/01-abstracao-encapsulamento/01-abstracao-encapsulamento.iml" filepath="$PROJECT_DIR$/02-programacao-orientada-objetos/01-abstracao-encapsulamento/01-abstracao-encapsulamento.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-sintaxe-basica-java/01-fundamentos-java/01-fundamentos-java.iml" filepath="$PROJECT_DIR$/01-sintaxe-basica-java/01-fundamentos-java/01-fundamentos-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-sintaxe-basica-java/01-sintaxe-basica-java.iml" filepath="$PROJECT_DIR$/01-sintaxe-basica-java/01-sintaxe-basica-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-sintaxe-basica-java/02-conta-banco/02-conta-banco.iml" filepath="$PROJECT_DIR$/01-sintaxe-basica-java/02-conta-banco/02-conta-banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-programacao-orientada-objetos/02-programacao-orientada-objetos.iml" filepath="$PROJECT_DIR$/02-programacao-orientada-objetos/02-programacao-orientada-objetos.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-sintaxe-basica-java/03-estrutura-condicional/03-estrutura-condicional.iml" filepath="$PROJECT_DIR$/01-sintaxe-basica-java/03-estrutura-condicional/03-estrutura-condicional.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-sintaxe-basica-java/04-debugging-tratamento-execoes/04-debugging-tratamento-execoes.iml" filepath="$PROJECT_DIR$/01-sintaxe-basica-java/04-debugging-tratamento-execoes/04-debugging-tratamento-execoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Bootcamp-Santander-2025__Back-End-Java2.iml" filepath="$PROJECT_DIR$/.idea/Bootcamp-Santander-2025__Back-End-Java2.iml" />
